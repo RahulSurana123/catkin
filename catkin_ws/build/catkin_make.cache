@@ -1,0 +1,2 @@
+combine:ros/src/openvslam:ros/src/publisher
+-DCATKIN_DEVEL_PREFIX=/home/meditab/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/meditab/catkin_ws/install -G Unix Makefiles

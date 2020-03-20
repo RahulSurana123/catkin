@@ -1,0 +1,8 @@
+prefix=/home/meditab/catkin_ws/install
+
+Name: combine
+Description: Description of combine
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
